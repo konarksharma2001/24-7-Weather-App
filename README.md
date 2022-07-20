@@ -1,4 +1,4 @@
-# 24*7 Weather App
+# The Weather Channel
 A 24*7 Weather App created using Html , Css , JavaScript and Api.
 
 ## Why use it ?
