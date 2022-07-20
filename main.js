@@ -1,6 +1,5 @@
-//api.openweathermap.org/data/2.5/weather?q=Delhi&units=metric&appid=f6d23667945e70e9fe8f04d0d1020dd1
-https: var weather = {
-  apiKey: "f6d23667945e70e9fe8f04d0d1020dd1",
+ var weather = {
+  apiKey: "",
   fetchWeather: function (city) {
     fetch(
       "https://api.openweathermap.org/data/2.5/weather?q=" +
