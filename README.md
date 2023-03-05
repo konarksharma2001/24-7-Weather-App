@@ -1,9 +1,9 @@
 # The Weather Channel
-A 24*7 Weather App created using Html , Css , JavaScript and Api.
+ This ultimate weather app, brings you accurate and up-to-date weather information right at your fingertips! This innovative app is designed to provide users with a seamless and enjoyable experience, allowing them to easily access current weather conditions, detailed forecasts, and much more. Whether you're planning a trip, checking the weather before heading out for the day, or simply want to stay informed about the weather in your area, this app has got you covered.This weather app is a must-have for anyone who wants to stay informed about the weather.
 
 ## Why use it ?
 
-Great tool as it  provides users information about the climate, the weather around them as well as the environment that they might be in. 
+This weather app provides accurate and up-to-date weather information with a user-friendly interface and customizable settings. It's conveniently available on GitHub and completely free to use. It's a great tool for making informed decisions about daily activities based on reliable weather information
 
 ## Features 
 * Real-Time Data
@@ -21,20 +21,13 @@ Great tool as it  provides users information about the climate, the weather arou
 
 ## Screen Shots :
 
-### Provide's  User with Dynamic Images of the Entered City 
+![Screenshot (122)](https://user-images.githubusercontent.com/87274294/222959286-86ee69d0-cdc5-40a9-9931-b4d21faa4d90.png)
 
 
-![Screenshot (4)](https://user-images.githubusercontent.com/87274294/180037187-4f72f8f4-b117-498a-add8-2c1cc4a68d80.png)
+![Screenshot (123)](https://user-images.githubusercontent.com/87274294/222959277-9dc765c4-d423-47e8-a23c-c19966ad9da8.png)
 
-![Screenshot (5)](https://user-images.githubusercontent.com/87274294/180037222-713c179c-a73f-4173-85f1-fc74cc7c7c36.png)
 
-![Screenshot (6)](https://user-images.githubusercontent.com/87274294/180037279-677e71a7-c3a4-4d16-bfde-6257a1241548.png)
-
-![Screenshot (7)](https://user-images.githubusercontent.com/87274294/180037285-56ae8e72-175a-4958-bd54-13b07bc1ae7a.png)
-
-![Screenshot (8)](https://user-images.githubusercontent.com/87274294/180037300-263f26b6-bafa-42d7-8862-2e0059095f44.png)
-
-![Screenshot (9)](https://user-images.githubusercontent.com/87274294/180037314-360d654d-e23f-41c2-a925-9b390a2f5a15.png)
+![Screenshot (124)](https://user-images.githubusercontent.com/87274294/222959269-c7ec2c79-1466-4740-a7a4-f84e12881b02.png)
 
 
 ## Link to Weather App :
