@@ -38,4 +38,4 @@ Great tool as it  provides users information about the climate, the weather arou
 
 
 ## Link to Weather App :
-https://24x7-weather-channel.netlify.app/
+https://weather-app-24hrs.netlify.app/
