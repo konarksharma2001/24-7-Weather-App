@@ -26,8 +26,9 @@ This weather app provides accurate and up-to-date weather information with a use
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/87274294/222959277-9dc765c4-d423-47e8-a23c-c19966ad9da8.png)
 
+![Screenshot (125)](https://user-images.githubusercontent.com/87274294/222959644-2973077d-8726-4b98-99e7-2c45c76531d5.png)
 
-![Screenshot (124)](https://user-images.githubusercontent.com/87274294/222959269-c7ec2c79-1466-4740-a7a4-f84e12881b02.png)
+
 
 
 ## Link to Weather App :
